@@ -1,6 +1,6 @@
 {
 "muerte":{
-"sounds":[{"name":"custom_sounds/muerte","stream":false}],"category":"voice"},
+"sounds":[{"name":"ambient/latam/muerte","stream":false}],"category":"voice"},
 "alarma":{
-"sounds":[{"name":"custom_sounds/alarma","stream":false}],"category":"voice"}
+"sounds":[{"name":"ambient/latam/alarma","stream":false}],"category":"voice"}
 }
