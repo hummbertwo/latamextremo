@@ -1,0 +1,9 @@
+{
+"muerte": { "sounds": [
+     {"name": "ambient/latam/muerte","weight": 2}
+    ], "replace": true},
+
+"alarma": { "sounds": [ 
+     {"name": "ambient/latam/alarma","weight": 2}
+    ], "replace": true}
+}
